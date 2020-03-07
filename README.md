@@ -1,2 +1,3 @@
 # matplotlib-challenge
-code and data for matplotlib-challenge
+
+This data analysis displays the effectiveness of various drugs tested on mice to reduce tumor size.
